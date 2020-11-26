@@ -23,4 +23,4 @@ the result will be put in the "output_Img" and the "output_Stk" directory.
 
 3. The "output_Img directory stores the images of the stroke order of the chinese character,
 
-and the "output_Stk" directory stores the x,y coordinates of the stroke order of the chinese character.
+    and the "output_Stk" directory stores the x,y coordinates of the stroke order of the chinese character.
