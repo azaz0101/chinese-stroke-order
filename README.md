@@ -2,6 +2,8 @@
 
 ---
 
+## About : 
+
 The model is used to predict the stroke order of the chinese character.
 
 ## Usage : 
@@ -9,6 +11,8 @@ The model is used to predict the stroke order of the chinese character.
 python glpredict.py image_path, ex. python glpredict.py ./test_img/train/04eca.png
 
 ---
+
+## Description : 
 
 In the "test_img" directory, subdirectory "train" is training data, and "test" is testing data.
 
