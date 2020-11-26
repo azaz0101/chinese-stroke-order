@@ -2,9 +2,9 @@
 
 ---
 
-## About : 
-
 The model is used to predict the stroke order of the chinese character.
+
+---
 
 ## Usage : 
 
