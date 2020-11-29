@@ -24,3 +24,7 @@ the result will be put in the "output_Img" and the "output_Stk" directory.
    - The "output_Img" directory stores the images of the stroke order of the chinese character.
    
    - The "output_Stk" directory stores the x,y coordinates of the stroke order of the chinese character.
+
+3. "loc.py" is used to train the local model.
+   "glo.py" is used to train the global model.
+   
