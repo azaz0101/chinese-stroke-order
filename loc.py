@@ -15,9 +15,7 @@ import os
 from tqdm import tqdm
 np.set_printoptions(threshold=20000,linewidth=900)
 torch.set_printoptions(threshold=20000,linewidth=900)
-Lpretrained = './pretrained/local_train9000.pt'
 Lmodel = Local()
-Lmodel.load_state_dict(torch.load(Lpretrained , map_location=torch.device('cuda')))
 dir_path = 'train_data'
 files = os.listdir(dir_path)
 epoch = 10
